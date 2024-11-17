@@ -44,6 +44,6 @@ Future plans for this app are vast, starting at enabling other
 Other features such as presenting next maneuver's sign,
  changing the navigation icon and adding a speedometer...
 
-
+Website article: https://blog.webiks.com/building-a-gps-navigation-web-app-prototype-with-open-source-open-standards-and-free-apis/
 
 
